@@ -1,0 +1,169 @@
+:root {
+    --fs-18: 18px;
+    --fs-sm: 20px;
+    --fs-md: 24px;
+    --fs-lg: 36px;
+    --fs-xl: 48px;
+    --bg-clr: #F6E300;
+    --clr: red;
+    --clr2: #FFFFFF;
+    --fm: Poppins;
+    --fm1: Roboto;
+    --fw: 600;
+    --fw1: 400;
+    --fw3: 700;
+    --clr1: #000000;
+    --fw2: 500;
+
+}
+
+
+nav {
+    background-color: var(--bg-clr);
+}
+
+
+
+
+.font1 {
+
+    font-family: var(--fm);
+    font-size: var(--fs-18);
+    font-weight: var(--fw1);
+    color: var(--clr1);
+
+
+
+}
+
+.font1:hover {
+    color: var(--clr);
+
+}
+
+.font3 {
+    font-family: var(--fm);
+    font-size: var(--fs-sm);
+    font-weight: var(--fw2);
+    color: var(--clr1);
+}
+
+.font4 {
+
+    font-family: var(--fm);
+    font-size: var(--fs-lg);
+    font-weight: var(--fw3);
+    text-align: center;
+}
+
+.font5 {
+    font-family: var(--fm);
+    font-size: var(--fs-xl);
+    font-weight: var(--fw3);
+    color: var(--clr1);
+}
+
+.font6 {
+    font-family: var(--fm);
+    font-size: var(--fs-18);
+    font-weight: var(--fw1);
+    color: var(--clr1);
+}
+
+.font7 {
+
+    font-family: var(--fm1);
+    font-size: var(--fs-sm);
+    font-weight: var(--fw2);
+    color: var(--clr2);
+
+}
+
+.font8 {
+
+    font-family: var(--fm);
+    font-size: var(--fs-xl);
+    font-weight: var(--fw3);
+    color: var(--clr2);
+
+    text-align: center;
+    padding-top: 29px;
+}
+
+.font9 {
+
+    font-family: var(--fm);
+    font-size: var(--fs-xl);
+    font-weight: var(--fw3);
+    color: var(--clr2);
+
+    text-align: center;
+    padding-top: 31px;
+}
+
+.font-1 {
+    font-family: var(--fm);
+    font-size: var(--fs-18);
+    font-weight: var(--fw1);
+    color: var(--clr2);
+
+    text-align: center;
+
+
+}
+
+.font-11 {
+    padding-bottom: 58px;
+}
+
+.font-2 {
+    font-family: var(--fm);
+    font-size: var(--fs-xl);
+    font-weight: var(--fw3);
+    color: var(--clr1);
+    text-align: center;
+    padding-top: 42px;
+}
+
+.font-3 {
+
+    font-family: var(--fm);
+    font-size: var(--fs-md);
+    font-weight: var(--fw3);
+
+    text-align: center;
+    padding-top: 26px;
+}
+
+.font-4 {
+
+    font-family: var(--fm);
+    font-size: var(--fs-18);
+    font-weight: var(--fw1);
+
+    text-align: center;
+
+}
+
+.font-44 {
+    margin-bottom: 68px;
+}
+
+.font-5 {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #000000;
+
+}
+
+.font-6 {
+
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #000000;
+}
